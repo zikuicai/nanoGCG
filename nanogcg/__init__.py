@@ -16,3 +16,5 @@ For more detailed information, see the GitHub repository: https://github.com/Gra
 """
 
 from .gcg import GCGConfig, run
+from .gcg_multi import run_multi
+from .autoprompt_multi import run_multi_autoprompt
